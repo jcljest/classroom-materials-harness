@@ -7,7 +7,7 @@ owner_session: null
 worktree: classroom-materials-harness
 started: 2026-10-06
 updated: 2026-10-06
-base_commit: null
+base_commit: ba47e6c
 depends_on: []
 blocks: []
 ---
@@ -102,7 +102,7 @@ personal-data scan of all files                        -> only author credit and
 
 ## Human Decision Needed
 
-- Owner creates the empty GitHub repo `classroom-materials-harness` before the first push.
+- None.
 
 ## Handoff
 
@@ -110,7 +110,7 @@ personal-data scan of all files                        -> only author credit and
 Stage 1 scaffold built; offline-verified.
 
 ### Current State
-ready_for_review; repo initialized, nothing committed; no remote yet.
+ready_for_review; initial commit ba47e6c pushed to origin/main (github.com/jcljest/classroom-materials-harness).
 
 ### Next Action
-Owner creates empty GitHub repo; first commit + push; live /setup + /learn-style run on real samples; then Stage 2.
+Live /setup + /learn-style run on real samples; then Stage 2.
