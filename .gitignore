@@ -1,0 +1,6 @@
+# Everything personal: courses, samples, learned style and conventions
+/local/
+
+__pycache__/
+*.pyc
+.DS_Store
